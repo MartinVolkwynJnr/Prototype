@@ -1,0 +1,11 @@
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.deps.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.runtimeconfig.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.runtimeconfig.dev.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.dll
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.pdb
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.csprojAssemblyReference.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.csproj.CoreCompileInputs.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.AssemblyInfoInputs.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.AssemblyInfo.cs
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.dll
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.pdb
